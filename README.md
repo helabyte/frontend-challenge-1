@@ -1,7 +1,7 @@
 # frontend-challenge
 you need to implement the following componet/components: 
 
-# first of all this is about having fun, so be Cool :)
+# first of all this is about having fun, so be cool :)
 
 The purpose of this section of the website depicted in the wireframe,  is to allow users to select the parts of the machine they want to order, fill it in the Sales Order Form (burger menu) and move on to next step. <br>
 The idea is to implement the form in a way that it can be opened and closed whenever the user wishes to do so. <br>
