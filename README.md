@@ -8,8 +8,8 @@ The idea is to implement the form in a way that it can be opened and closed when
 The information the user puts in the form is supposed to be saved for as long as the user is on that site.  <br>
 For your better understanding and reference we have attached the actual picture and description of the parts.  <br>
 
-Good luck and enjoy!
-#after finishing the challenge please send a pull request to this repository
+Good luck and enjoy!<br>
+<h3 style="color:green">after finishing the challenge please send a pull request to this repository<h3>
   
   
 
